@@ -23,7 +23,7 @@ Constraints
 
  
 
-Output Format
+Output Format:
 
 You must print the following  lines:
 
